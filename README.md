@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I’m Mithun T
 
-<!--
-**mithun-t/mithun-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 💼 Full Stack Software Developer at Biosoft Health Tech, Bangalore, with 3 years of experience
+- 👨‍🔧 Skilled in React TS, .NET Core, Django, SQL, JavaScript and more
+- 🎯 My Goal: Develop world-class systems in the hospital domain
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages**: C#, Python, JavaScript, TypeScript
+- **Frontend**: React, Material UI, Bootstrap, Chakra UI
+- **Backend**: .NET Core, Django
+- **Databases**: SQL Server, MySQL, Oracle
+- **Tools**: Bitbucket, Jira, Toad, iTextSharp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Projects
+- **ERP System** (Working on the lease part with Angular TS and SQL Server)
+- **Freelance Projects** (Static websites, customized solutions, internships)
+
+### 📈 GitHub Stats
+![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun-t&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/mithun-t)
+- Email: mithunt04@gmail.com
