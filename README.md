@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 - 💼 Full Stack Software Developer at Biosoft Health Tech, Bangalore, with 3 years of experience
 - 👨‍🔧 Skilled in React TS, .NET Core, Django, SQL, JavaScript and more
-- 🎯 My Goal: Develop world-class systems in the hospital domain
+- 🎯 My Goal: Develop world-class systems in the hospital and fitness domain
 
 ### 🛠️ Tech Stack
 - **Languages**: C#, Python, JavaScript, TypeScript
