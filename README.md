@@ -13,11 +13,11 @@
 - **Tools**: Bitbucket, Jira, Toad, iTextSharp
 
 ### 🌱 Current Projects
-- **ERP System** (Working on the lease part with Angular TS and SQL Server)
+- **ERP System**
 - **Freelance Projects** (Static websites, customized solutions, internships)
 
 ### 📈 GitHub Stats
-![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun-t&show_icons=true&theme=radical)
+![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun-t&show_icons=true&theme=tokyonight)
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mithun-t)
