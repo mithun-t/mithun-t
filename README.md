@@ -23,20 +23,22 @@
 #### **Backend**
 ![DotNet](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-002444?logo=django&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
 
-- **Frameworks:** .NET Core, ASP.NET, Django
+- **Frameworks:** .NET Core, Express.js, ASP.NET, Django
 - **API Development:** RESTful Web API
-- **Languages:** C#, Python, LINQ, Entity Framework
+- **Languages:** C#, Python, Node.js LINQ, Entity Framework
 - **Tools**: Bitbucket, Jira, iTextSharp
 
 #### **Databases**
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
-- **Databases:** Oracle, SQL Server, MySQL
-- **Tools:** Toad
+- **Databases:** Oracle, SQL Server, PostgreSQL, MySQL
+- **Tools:** Toad, pgAdmin, SQL Server Management Studio
 
 ### 📋 Key Projects
 - **🩺 eBios**: A comprehensive health management ERP system for hospitals, focusing on API and repository layer development using .NET Core and SQL Server.
