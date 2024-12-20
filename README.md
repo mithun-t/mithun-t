@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - **💼 Full Stack Developer** based in Bangalore, India, with 3+ years of experience
-- **👨‍🔧 Skilled**  in React TS, .NET Core, Django, SQL, JavaScript and more
+- **👨‍🔧 Skilled**  in React TS, .NET Core, PERN Stack,  Django, SQL, JavaScript and more
 - **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
 - **🎯 Goal:** Develop world-class systems in the hospital and fitness domain
 
@@ -15,10 +15,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-- **Frameworks/Libraries:** React, Angular
+- **Frameworks/Libraries:** React, Angular, jQuery
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **UI/Styling:** Bootstrap, Material UI, Tailwind CSS
-- **Tools:** jQuery, Webpack, Redux, Axios
+- **Tools:**  Redux, Axios
 
 #### **Backend**
 ![DotNet](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
@@ -41,9 +41,8 @@
 - **Tools:** Toad, pgAdmin, SQL Server Management Studio
 
 ### 📋 Key Projects
-- **🩺 eBios**: A comprehensive health management ERP system for hospitals, focusing on API and repository layer development using .NET Core and SQL Server.
+- **🩺 eBios**: A comprehensive health management ERP system for hospitals, focusing on API and repository layer development using React.ts, .NET Core and SQL Server.
 - **🧪 Laboratory Results Entry System**: Developed a detailed Laboratory Results Entry system with robust backend integration using ASP.NET and Oracle.
-- **🛠️ Gym Tracker App**: A mobile app to track workouts using React Native, MongoDB, and Django for API development.
   
 ### 🌱 Current Projects
 - **ERP System**
