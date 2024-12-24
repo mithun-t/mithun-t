@@ -1,10 +1,10 @@
 # Hi there! 👋 I’m Mithun T
 
 ### 👨‍💻 About Me
-- **💼 Full Stack Developer** based in Bangalore, India, with 3+ years of experience
+- **💼 Full Stack Developer** with over three years of experience, based in Bangalore, India
 - **👨‍🔧 Skilled**  in React TS, .NET Core, PERN Stack,  Django, SQL, JavaScript, TypeScript and more
 - **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
-- **🎯 Goal:** Develop world-class systems in the hospital and fitness domains
+- **🎯 Goal:** Create top-notch systems for the healthcare and fitness industries
 
 ### 🔧 Technical Skills
 
