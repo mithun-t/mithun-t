@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-- **Languages/Frameworks/Libraries:** React, JavaScript, TypeScript, jQuery, Axios
+- **Languages/Frameworks/Libraries:** React, JavaScript, TypeScript, Axios, jQuery
 - **UI/Styling:** Bootstrap 5, Tailwind CSS, Material UI, CSS3, HTML5
 - **State Management Tools:**  Redux, Zustand, React Query
 
@@ -27,10 +27,10 @@
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
 
 - **Frameworks:** .NET Core 8, Entity Framework Core, Express.js, Django
-- **Authentication and Security:** JWT (JSON Web Tokens), Role-Based Access Control
+- **Security:** JWT, HMAC Signature validation, Data Encryption
 - **API Development:** RESTful Web API
-- **Languages:** C#, Python, JavaScript
-- **Tools**: Bitbucket, Jira, iTextSharp
+- **Languages:** C#, JavaScript, Python
+- **Tools**:  Bitbucket, Jira, Postman
 
 #### **Databases**
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
