@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - **💼 Full Stack Developer** with over three years of experience, based in Bangalore, India
-- **👨‍🔧 Skilled**  in React TS, .NET Core, PERN Stack,  Django, SQL, JavaScript, TypeScript and more
+- **👨‍🔧 Skilled**  in React.js, .NET Core, C#, JavaScript, TypeScript, SQL Server, PostgreSQL
 - **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
 - **🎯 Goal:** Create top-notch systems for the healthcare and fitness industries
 
@@ -22,23 +22,21 @@
 #### **Backend**
 ![DotNet](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=Express&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-002444?logo=django&logoColor=white&style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
 
-- **Frameworks:** .NET Core 8, Entity Framework Core, Express.js, Django
+- **Frameworks:** .NET Core 9 Web Api, Entity Framework Core
 - **Security:** JWT, HMAC Signature validation, Data Encryption
 - **API Development:** RESTful Web API
 - **Languages:** C#, JavaScript, Python
-- **Tools**:  Bitbucket, Jira, Postman
+- **Tools**:  Bitbucket, Jira, Postman, Git
 
 #### **Databases**
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 
-- **Databases:** Oracle, SQL Server, PostgreSQL, MySQL
-- **Tools:** Toad, pgAdmin, SQL Server Management Studio
+- **Databases:** SQL Server, PostgreSQL, MySQL, Oracle
+- **Tools:** SQL Server Management Studio, Toad, pgAdmin, Dbeaver
 
 ### 📋 Key Projects
 - **🩺 eBios**: A comprehensive health management ERP system for hospitals, focusing on API and repository layer development using React.ts, .NET Core and SQL Server.
