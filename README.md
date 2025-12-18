@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m Mithun T
 
 ### 👨‍💻 About Me
-- **💼 Full Stack Developer** with over three years of experience, based in Bangalore, India
+- **💼 Full Stack Developer** with over 4+ years of experience, based in Bangalore, India
 - **👨‍🔧 Skilled**  in React.js, .NET Core, C#, JavaScript, TypeScript, SQL Server, PostgreSQL
 - **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
 - **🎯 Goal:** Create top-notch systems for the healthcare and fitness industries
@@ -12,12 +12,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?logo=typescript&logoColor=ffffff&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-navy?logo=Tailwindcss&logoColor=white&style=for-the-badge)
+![Material UI](https://img.shields.io/badge/-MaterialUI-blue?logo=mui&logoColor=white&style=for-the-badge)
 
-- **Languages/Frameworks/Libraries:** React, JavaScript, TypeScript, Axios, jQuery
-- **UI/Styling:** Bootstrap 5, Tailwind CSS, Material UI, CSS3, HTML5
-- **State Management Tools:**  Redux, Zustand, React Query
+- **Languages/Frameworks/Libraries:** React, JavaScript, TypeScript, Axios
+- **UI/Styling:** Tailwind CSS, Material UI, Bootstrap 5, CSS3, HTML5
+- **State Management Tools:**  Redux, Zustand, React Query, React Hook Forms
 
 #### **Backend**
 ![DotNet](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
