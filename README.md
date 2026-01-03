@@ -68,7 +68,6 @@
 - **📱 Phone:** +91 9562601187
 - **📍 Location:** Bangalore, India
 - **🌐 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mithun-t/)
-
 ---
 
 ⭐️ From [Mithun T](https://github.com/mithun-t)
