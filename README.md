@@ -1,8 +1,8 @@
 # Hi there! 👋 I’m Mithun T
 
 ### 👨‍💻 About Me
-- **💼 Full Stack Developer** with over 4+ years of experience, based in Bangalore, India
-- **👨‍🔧 Skilled**  in React.js, .NET Core, C#, JavaScript, TypeScript, SQL Server, PostgreSQL
+- **💼 Full Stack Developer** with over 5+ years of experience, based in Bangalore, India
+- **👨‍🔧 Skilled**  in React.js, .NET Core 10 Web Api, C#, JavaScript, TypeScript, SQL Server, PostgreSQL, Oracle
 - **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
 - **🎯 Goal:** Create top-notch systems for the healthcare and fitness industries
 
